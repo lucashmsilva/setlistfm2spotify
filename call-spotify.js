@@ -2,9 +2,9 @@ const axios = require('axios');
 
 async function run() {
   const CF_ACCOUNT_ID = '96386c4bd04001a55fe2e5df53c3fb27';
-  const CF_API_TOKEN = 'N34f-Jcev9DCfsmKVS8IsY3D_suKfuZd8kdEjxAN';
-  const CF_EMAIL = 'lucashenrique580@gmail.com';
-  const CF_API_KEY = '1fccc863095f1b03214c228efa2e6e83d639d';
+  const CF_API_TOKEN = '';
+  const CF_EMAIL = '';
+  const CF_API_KEY = '';
   const SPOTIFYCREDS_NAMESPACE_ID = '600cbfa99f7242fca5d8e29e9b7a7804'
 
   try {
